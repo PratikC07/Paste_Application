@@ -34,3 +34,15 @@ This is a feature-rich web application built with React that empowers you to eff
 ```bash
 git clone https://github.com/PratikC07/Paste_Application.git
 ```
+**Install Dependencies:**
+
+```bash
+cd Paste_Application
+npm install
+```
+**Start Application:**
+
+```bash
+npm run dev
+```
+This will start the development server and open the application in your default browser, usually at http://localhost:3000/.
