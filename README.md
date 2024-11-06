@@ -32,4 +32,5 @@ This is a feature-rich web application built with React that empowers you to eff
 **Clone the Repository:**
 
 ```bash
-git clone https://your-github-repository-url.git
+git clone https://github.com/PratikC07/Paste_Application.git
+```
