@@ -1,0 +1,10 @@
+.active{
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: red;
+}
+.inActive{
+    font-size: 1.3rem;
+    font-weight: 400;
+    color: white;
+}
